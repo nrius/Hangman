@@ -2,7 +2,7 @@
 
 
 
-<span style="color:blue">*This is my first project, after 4 days at Ironhack!*</span>
+This is my first project, after 4 days at Ironhack!
 
 
 
