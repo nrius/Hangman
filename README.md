@@ -29,7 +29,7 @@ Follow the instructions from the prompt
 
 ## If you are using jupyter notebook::
 
-open hangman_NRius_def.ipynb
+open hangman_nrius.ipynb
 
 and simply
 
